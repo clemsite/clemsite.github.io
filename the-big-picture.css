@@ -1,0 +1,18 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+body {
+  background: url(photos/background.JPG) no-repeat center center fixed;
+  -webkit-background-size: contain;
+  -moz-background-size: cover;
+  background-size: contain;
+  -o-background-size: cover;
+  font-family: 'AvenirLTStd35Light', 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+}
+/*.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+
+    color: rgba(255,255,255,.5);
+}*/
