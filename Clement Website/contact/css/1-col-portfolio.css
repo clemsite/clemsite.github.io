@@ -1,0 +1,49 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (https://startbootstrap.com/template-overviews/1-col-portfolio)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+  background: url(../emailcontactpage.JPG) no-repeat center center fixed;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
+  font-family: 'AvenirLTStd35Light', 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+}
+
+body {
+  padding-top: 54px;
+  font-family: 'AvenirLTStd35Light', 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+
+
+.pagination {
+  margin-bottom: 15px;
+}
+
+
+.col-md-5 {
+	margin:auto;
+	text-align: center;
+	color:white;
+
+}
+
+.row {
+	margin-top: 400px;
+}
+
+.white.active{
+	background-color:red;
+}
+
